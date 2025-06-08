@@ -17,7 +17,7 @@
 
 Steps to build and/or run the software:
 
-1. Clone the repository ""
+1. Clone the repository "https://github.com/kkafle10/weatherapp"
 2. Navigate to the project folder: `cd weatherapp`
 3. Run `npm install` to install dependencies
 4. Start the development server: `npm start`
